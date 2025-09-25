@@ -1,0 +1,55 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.env
+.env*/
+.venv/
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Cache
+.cache/
+pytest_cache/
+
+# Local data & artifacts
+*.zip
+*.tar
+*.tar.gz
+*.pt
+*.onnx
+*.weights
+
+# Project-specific generated files
+static/uploads/
+static/results/
+
+# Flask/instance
+instance/
