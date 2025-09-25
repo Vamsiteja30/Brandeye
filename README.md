@@ -193,4 +193,4 @@ curl http://localhost:5003/health  # Visualization
 - Add authentication
 
 ## Contact
-For questions about this implementation, contact the development team.
+For questions about this implementation, Dm me.
